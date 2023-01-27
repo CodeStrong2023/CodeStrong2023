@@ -1,2 +1,2 @@
-# README.md
+# README
 Presentación de la organización
